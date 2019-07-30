@@ -3,3 +3,4 @@ hello git
 Creating a new branch is quick and simple.
 add merge
 stash test
+add env
